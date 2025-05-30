@@ -1154,3 +1154,9 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
 	.include "data/scripts/dexnav.inc"
+
+	.include "data/maps/NewTwinrootTown/scripts.inc"
+
+	.include "data/maps/Route301/scripts.inc"
+
+	.include "data/maps/ParaLab/scripts.inc"

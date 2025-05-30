@@ -26735,3 +26735,10 @@ const u32 gObjectEventPic_Substitute[] = INCBIN_COMP("graphics/pokemon/question_
     const u32 gMonFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/anim_front.4bpp.lz");
     const u32 gMonPalette_Egg[] = INCBIN_U32("graphics/pokemon/egg/normal.gbapal.lz");
     const u8 gMonIcon_Egg[] = INCBIN_U8("graphics/pokemon/egg/icon.4bpp");
+
+	const u32 gMonFrontPic_PorygonOS[] = INCBIN_U32("graphics/pokemon/porygon_os/anim_front.4bpp.lz");
+	const u32 gMonBackPic_PorygonOS[] = INCBIN_U32("graphics/pokemon/porygon_os/back.4bpp.lz");
+	const u32 gMonPalette_PorygonOS[] = INCBIN_U32("graphics/pokemon/porygon_os/normal.gbapal.lz");
+	const u32 gMonShinyPalette_PorygonOS[] = INCBIN_U32("graphics/pokemon/porygon_os/shiny.gbapal.lz");
+	const u8 gMonIcon_PorygonOS[] = INCBIN_U8("graphics/pokemon/porygon_os/icon.4bpp");
+	const u8 gMonFootprint_PorygonOS[] = INCBIN_U8("graphics/pokemon/porygon_os/footprint.1bpp");
